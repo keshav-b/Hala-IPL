@@ -9,4 +9,6 @@ Using F1_Score it is found that _ _**XGBoost**_ _ performs the best.
 
 **matches.csv** is the dataset used.
 
+requirements: `pip install -r requirements.txt`
+
 
