@@ -8,9 +8,9 @@ This is a python script I wrote that predicts the winner of a match between 2 IP
 
 Using F1_Score it is found that _**XGBoost**_ performs the best.
 
-#Instructions
+# Instructions
 **matches.csv** is the dataset used.
 
-requirements: `pip install -r requirements.txt`
+Install dependencies using : `pip install -r requirements.txt`
 
 
